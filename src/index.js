@@ -3,8 +3,10 @@ function eval() {
     return;
 }
 
-function expressionCalculator(expr) {
-    // write your solution here
+function expressionCalculator(str) {
+    let expr = String(str);
+    let result = 0;
+    return result;
 }
 
 module.exports = {
